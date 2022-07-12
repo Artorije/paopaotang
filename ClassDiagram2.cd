@@ -1,0 +1,221 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="AbstractRoleFactory" Collapsed="true">
+    <Position X="8.5" Y="5" Width="2" />
+    <TypeIdentifier>
+      <HashCode>QAAAEAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAQAAAAAA=</HashCode>
+      <FileName>AbstractRoleFactory.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CBrick" Collapsed="true">
+    <Position X="12.75" Y="2.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAABAAAAAAAAAAAAAIACAAAAAIAAAAAAAAAAAIAA=</HashCode>
+      <FileName>CBrick.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CGreenSkin" Collapsed="true">
+    <Position X="4" Y="5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAAAQAAAEAAAAA=</HashCode>
+      <FileName>CGreenSkin.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CObserver" Collapsed="true">
+    <Position X="15.25" Y="3" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>wAAAEAAAIAAAAQAAAAAAAAAAAAAABAAAAAAAAAAAAAQ=</HashCode>
+      <FileName>CObserver.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CObserverJudgeHurt" Collapsed="true">
+    <Position X="13" Y="3" Width="2" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAIAAAAAAAAAAAAAAAAAAABAAAAAAAAAAQ=</HashCode>
+      <FileName>CObserverJudgeHurt.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CPirate" Collapsed="true">
+    <Position X="12.25" Y="7" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AEAAAAAAAAAAAAAAAAAAAAAIAAAAAAAAIAAAAAAAAAA=</HashCode>
+      <FileName>CPirate.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CPlayer" Collapsed="true">
+    <Position X="11.5" Y="6" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AMJCAgAAAKEDAEAkAAAEEBkQOSAkAoADIQAEABAgAAA=</HashCode>
+      <FileName>CPlayer.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CPlayerFactory" Collapsed="true">
+    <Position X="9.5" Y="6" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAABEAAAAAAAAAAAAAAAAIAAAAAAAAAAAAAAQAAAAAA=</HashCode>
+      <FileName>CPlayerFactory.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CRedbaby" Collapsed="true">
+    <Position X="10.75" Y="7" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AEAAAAAAAAAAAACAAAAAAAAAAAAAAAAQAAAAAAAAAAA=</HashCode>
+      <FileName>CRedbaby.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CRedSkin" Collapsed="true">
+    <Position X="4" Y="5.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAEAAACQAAAAAAAAA=</HashCode>
+      <FileName>CRedSkin.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CRide" Collapsed="true">
+    <Position X="6" Y="4" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAABAgAAASAAQAAAAEAAAAAAAAAABgAAAIAQAAABA=</HashCode>
+      <FileName>CRide.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CRideBulider" Collapsed="true">
+    <Position X="7.75" Y="4" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAQAAAwBIAAAAAFAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>CRideBulider.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CRideUFO" Collapsed="true">
+    <Position X="3.75" Y="4" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAoAAACAAQAIAAAAAAAAAAAAABAAAAIAQAAAAA=</HashCode>
+      <FileName>CRideUFO.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CShellStrategy" Collapsed="true">
+    <Position X="13" Y="4" Width="2.25" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAgAAAAAAAABAAAAAAAAAAAAAACAAQAA=</HashCode>
+      <FileName>CShellStrategy.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CShellStrategyBlack" Collapsed="true">
+    <Position X="15.5" Y="6.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAgBAAAAAAAAAAAAAAAAAIAAAAAAAAAA=</HashCode>
+      <FileName>CShellStrategyBlack.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CShellStrategyBlue" Collapsed="true">
+    <Position X="15.5" Y="5.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAACAAAAAAEAAgAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>CShellStrategyBlue.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CShellStrategyC" Collapsed="true">
+    <Position X="15.5" Y="4.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAgAAAAAAAAAAAAAAAAAAgAAAACAAAAA=</HashCode>
+      <FileName>CShellStrategyC.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CShellStrategyZ" Collapsed="true">
+    <Position X="15.5" Y="4" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAgAAAAAAAAAAAAAAAAAAAQAAACAAAAA=</HashCode>
+      <FileName>CShellStrategyZ.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CSisterSkin" Collapsed="true">
+    <Position X="5.5" Y="5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAgAAAAAAAAAAAAAAAAAAAAAAABQAAAAAAAAA=</HashCode>
+      <FileName>CSisterSkin.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CSkin" Collapsed="true">
+    <Position X="6" Y="6" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>gAAAAAAAAAAAAAAABAAAAAAAAQAAAAAAAQAAAAAAAAg=</HashCode>
+      <FileName>CSkin.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CSkinFactory" Collapsed="true">
+    <Position X="8" Y="6" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAEAAAAAAAQAAAAAAAAAAAAAABAAAAAAAAQAAAAAA=</HashCode>
+      <FileName>CSkinFactory.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CTool" Collapsed="true">
+    <Position X="8" Y="3" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AEAABAAAAAAAAAAAAAAAAAAAAAICAADAAQAAAAAAAAA=</HashCode>
+      <FileName>CTool.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CToolDecorator" Collapsed="true">
+    <Position X="6.25" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAQAAAAQAAAAAAAAAAAAAAAQABAAAAAAA=</HashCode>
+      <FileName>CToolDecorator.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CToolDecoratorPurplePotion" Collapsed="true">
+    <Position X="8.25" Y="1.5" Width="2.75" />
+    <TypeIdentifier>
+      <HashCode>AEAAAEAAAAAAAAAAAAAEAQAAAAAAAAAAAQAAAAAAAAA=</HashCode>
+      <FileName>CToolDecoratorPurplePotion.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CToolPower" Collapsed="true">
+    <Position X="1.75" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAQAAACAAAAQ=</HashCode>
+      <FileName>CToolPower.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CToolShell" Collapsed="true">
+    <Position X="3.25" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AEAQACAAAAAAAAAAAAAAAAAAAAAAAAAAAQAAAAAAAAA=</HashCode>
+      <FileName>CToolShell.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CToolShoe" Collapsed="true">
+    <Position X="4.75" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AEAAAgAAAAAAAAAAAAAACAAAAAAAAAAAAQAAAAAAAAA=</HashCode>
+      <FileName>CToolShoe.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CYellowSkin" Collapsed="true">
+    <Position X="4" Y="6.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAEACAAAAAAAAAAAAAAAAAAAQAAAAAAAAA=</HashCode>
+      <FileName>CYellowSkin.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CGameEnergy" Collapsed="true">
+    <Position X="10" Y="4" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AASIAJAQAgAhIEgBAIAAwAECAAAAAAAJGQAAACAAAII=</HashCode>
+      <FileName>GameEnergy.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CMMap" Collapsed="true">
+    <Position X="10" Y="2.25" Width="2" />
+    <TypeIdentifier>
+      <HashCode>AAAEgCAAAEAiAAACAAAAIAgEBQBAAQCAEAAIARAAAAI=</HashCode>
+      <FileName>MMap.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CShell" Collapsed="true">
+    <Position X="11.5" Y="5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAIAAACACABAAAwAAAAEAEUAAEAAAABIEAAAgAAIAA=</HashCode>
+      <FileName>Shell.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Microsoft YaHei UI" Size="9" />
+</ClassDiagram>

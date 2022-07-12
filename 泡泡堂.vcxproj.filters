@@ -1,0 +1,213 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="源文件">
+      <UniqueIdentifier>{4FC737F1-C7A5-4376-A066-2A32D752A2FF}</UniqueIdentifier>
+      <Extensions>cpp;c;cc;cxx;def;odl;idl;hpj;bat;asm;asmx</Extensions>
+    </Filter>
+    <Filter Include="头文件">
+      <UniqueIdentifier>{93995380-89BD-4b04-88EB-625FBE52EBFB}</UniqueIdentifier>
+      <Extensions>h;hh;hpp;hxx;hm;inl;inc;xsd</Extensions>
+    </Filter>
+    <Filter Include="资源文件">
+      <UniqueIdentifier>{67DA6AB6-F800-4c08-8B7A-83BB121AAD01}</UniqueIdentifier>
+      <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="MMap.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="GameEnergy.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="Shell.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="CPlayer.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="CRedbaby.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="CPirate.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="CSkin.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="CRedSkin.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="CYellowSkin.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="CGreenSkin.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="CSisterSkin.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="AbstractRoleFactory.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="CSkinFactory.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="CPlayerFactory.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="CRideBulider.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="CRide.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="CRideUFO.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="CBrick.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="CTool.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="CToolPower.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="CToolShell.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="CToolShoe.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="CToolDecorator.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="CToolDecoratorPurplePotion.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="CObserver.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="CObserverJudgeHurt.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="CShellStrategy.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="CShellStrategyBlue.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="CShellStrategyC.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="CShellStrategyZ.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="CShellStrategyBlack.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="MMap.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="源.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="GameEnergy.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="CPlayer.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="CRedbaby.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="CPirate.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="CSkin.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="CRedSkin.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="CYellowSkin.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="CGreenSkin.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="CSisterSkin.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="AbstractRoleFactory.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="CSkinFactory.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="CPlayerFactory.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="CRideBulider.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="CRide.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="CRideUFO.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="CBrick.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="CTool.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="CToolPower.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="CToolShell.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="CToolShoe.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="CToolDecorator.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="CToolDecoratorPurplePotion.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="CObserver.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="CObserverJudgeHurt.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="CShellStrategy.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="CShellStrategyBlue.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="CShellStrategyC.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="CShellStrategyZ.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="CShellStrategyBlack.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="Shell.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="ClassDiagram2.cd" />
+  </ItemGroup>
+</Project>
